@@ -51,6 +51,7 @@ Repository | Description
 Repositório | Descrição
 ---- | ----
 [Adversarial Machine Learning] (https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Lista curada de recursos de aprendizagem de máquinas adversárias impressionantes
+[Dark-Moon] (https://github.com/ASCIT31/Dark-Moon) | Plataforma open source de pentest autônomo com IA, executada localmente via docker compose e com servidor MCP, cobrindo web, API, Active Directory e Kubernetes
 [Segurança AI] (https://github.com/RandomAdversary/Awesome-AI-Security) | Lista curada de recursos de segurança AI
 [Lista de verificação de segurança da API] (https://github.com/shieldfy/API-Security-Checklist) | Lista de verificação das contramedidas de segurança mais importantes ao projetar, testar e liberar sua API
 [APT Notes] (https://github.com/kbandla/APTnotes) | Vários documentos públicos, whitepapers e artigos sobre campanhas APT
